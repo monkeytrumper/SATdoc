@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="projectFold" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not Yet Configured</Value>
+    </Setting>
+    <Setting Name="BlankSATfold" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not Yet Configured</Value>
+    </Setting>
+    <Setting Name="TmplFold" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not Yet Configured</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
