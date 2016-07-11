@@ -41,6 +41,26 @@ Partial Class CTcore
         Me.tbCT1C1Rat5 = New System.Windows.Forms.TextBox()
         Me.tbCT1C1Rat3 = New System.Windows.Forms.TextBox()
         Me.tbCT1C1Rat4 = New System.Windows.Forms.TextBox()
+        Me.TextBox11 = New System.Windows.Forms.TextBox()
+        Me.TextBox12 = New System.Windows.Forms.TextBox()
+        Me.TextBox13 = New System.Windows.Forms.TextBox()
+        Me.TextBox14 = New System.Windows.Forms.TextBox()
+        Me.TextBox15 = New System.Windows.Forms.TextBox()
+        Me.TextBox19 = New System.Windows.Forms.TextBox()
+        Me.TextBox20 = New System.Windows.Forms.TextBox()
+        Me.TextBox21 = New System.Windows.Forms.TextBox()
+        Me.TextBox22 = New System.Windows.Forms.TextBox()
+        Me.TextBox23 = New System.Windows.Forms.TextBox()
+        Me.TextBox27 = New System.Windows.Forms.TextBox()
+        Me.TextBox28 = New System.Windows.Forms.TextBox()
+        Me.TextBox29 = New System.Windows.Forms.TextBox()
+        Me.TextBox30 = New System.Windows.Forms.TextBox()
+        Me.TextBox31 = New System.Windows.Forms.TextBox()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.TextBox6 = New System.Windows.Forms.TextBox()
+        Me.TextBox7 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -52,75 +72,6 @@ Partial Class CTcore
         Me.TabControl1 = New System.Windows.Forms.TabControl()
         Me.tpCT1C1 = New System.Windows.Forms.TabPage()
         Me.tpCT1C2 = New System.Windows.Forms.TabPage()
-        Me.tpCT1C3 = New System.Windows.Forms.TabPage()
-        Me.tpCT1C4 = New System.Windows.Forms.TabPage()
-        Me.tpCT1C5 = New System.Windows.Forms.TabPage()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.TextBox9 = New System.Windows.Forms.TextBox()
-        Me.Label22 = New System.Windows.Forms.Label()
-        Me.Label23 = New System.Windows.Forms.Label()
-        Me.TextBox10 = New System.Windows.Forms.TextBox()
-        Me.Label24 = New System.Windows.Forms.Label()
-        Me.TextBox11 = New System.Windows.Forms.TextBox()
-        Me.TextBox12 = New System.Windows.Forms.TextBox()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.TextBox13 = New System.Windows.Forms.TextBox()
-        Me.TextBox14 = New System.Windows.Forms.TextBox()
-        Me.Label27 = New System.Windows.Forms.Label()
-        Me.Label28 = New System.Windows.Forms.Label()
-        Me.TextBox15 = New System.Windows.Forms.TextBox()
-        Me.Label29 = New System.Windows.Forms.Label()
-        Me.Label30 = New System.Windows.Forms.Label()
-        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
-        Me.TextBox16 = New System.Windows.Forms.TextBox()
-        Me.Label31 = New System.Windows.Forms.Label()
-        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
-        Me.Label32 = New System.Windows.Forms.Label()
-        Me.TextBox17 = New System.Windows.Forms.TextBox()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.TextBox18 = New System.Windows.Forms.TextBox()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.TextBox19 = New System.Windows.Forms.TextBox()
-        Me.TextBox20 = New System.Windows.Forms.TextBox()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.Label37 = New System.Windows.Forms.Label()
-        Me.TextBox21 = New System.Windows.Forms.TextBox()
-        Me.TextBox22 = New System.Windows.Forms.TextBox()
-        Me.Label38 = New System.Windows.Forms.Label()
-        Me.Label39 = New System.Windows.Forms.Label()
-        Me.TextBox23 = New System.Windows.Forms.TextBox()
-        Me.Label40 = New System.Windows.Forms.Label()
-        Me.Label41 = New System.Windows.Forms.Label()
-        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
-        Me.TextBox24 = New System.Windows.Forms.TextBox()
-        Me.Label42 = New System.Windows.Forms.Label()
-        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
-        Me.Label43 = New System.Windows.Forms.Label()
-        Me.TextBox25 = New System.Windows.Forms.TextBox()
-        Me.Label44 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.TextBox26 = New System.Windows.Forms.TextBox()
-        Me.Label46 = New System.Windows.Forms.Label()
-        Me.TextBox27 = New System.Windows.Forms.TextBox()
-        Me.TextBox28 = New System.Windows.Forms.TextBox()
-        Me.Label47 = New System.Windows.Forms.Label()
-        Me.Label48 = New System.Windows.Forms.Label()
-        Me.TextBox29 = New System.Windows.Forms.TextBox()
-        Me.TextBox30 = New System.Windows.Forms.TextBox()
-        Me.Label49 = New System.Windows.Forms.Label()
-        Me.Label50 = New System.Windows.Forms.Label()
-        Me.TextBox31 = New System.Windows.Forms.TextBox()
-        Me.Label51 = New System.Windows.Forms.Label()
-        Me.Label52 = New System.Windows.Forms.Label()
-        Me.ComboBox12 = New System.Windows.Forms.ComboBox()
-        Me.TextBox32 = New System.Windows.Forms.TextBox()
-        Me.Label53 = New System.Windows.Forms.Label()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.ComboBox2 = New System.Windows.Forms.ComboBox()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -129,20 +80,69 @@ Partial Class CTcore
         Me.Label6 = New System.Windows.Forms.Label()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.Label12 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.Label17 = New System.Windows.Forms.Label()
-        Me.TextBox7 = New System.Windows.Forms.TextBox()
         Me.Label18 = New System.Windows.Forms.Label()
         Me.Label19 = New System.Windows.Forms.Label()
         Me.ComboBox3 = New System.Windows.Forms.ComboBox()
         Me.TextBox8 = New System.Windows.Forms.TextBox()
         Me.Label20 = New System.Windows.Forms.Label()
+        Me.tpCT1C3 = New System.Windows.Forms.TabPage()
+        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.TextBox10 = New System.Windows.Forms.TextBox()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
+        Me.Label28 = New System.Windows.Forms.Label()
+        Me.Label29 = New System.Windows.Forms.Label()
+        Me.Label30 = New System.Windows.Forms.Label()
+        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
+        Me.TextBox16 = New System.Windows.Forms.TextBox()
+        Me.Label31 = New System.Windows.Forms.Label()
+        Me.tpCT1C4 = New System.Windows.Forms.TabPage()
+        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
+        Me.Label32 = New System.Windows.Forms.Label()
+        Me.TextBox17 = New System.Windows.Forms.TextBox()
+        Me.Label33 = New System.Windows.Forms.Label()
+        Me.Label34 = New System.Windows.Forms.Label()
+        Me.TextBox18 = New System.Windows.Forms.TextBox()
+        Me.Label35 = New System.Windows.Forms.Label()
+        Me.Label36 = New System.Windows.Forms.Label()
+        Me.Label37 = New System.Windows.Forms.Label()
+        Me.Label38 = New System.Windows.Forms.Label()
+        Me.Label39 = New System.Windows.Forms.Label()
+        Me.Label40 = New System.Windows.Forms.Label()
+        Me.Label41 = New System.Windows.Forms.Label()
+        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
+        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.Label42 = New System.Windows.Forms.Label()
+        Me.tpCT1C5 = New System.Windows.Forms.TabPage()
+        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
+        Me.Label43 = New System.Windows.Forms.Label()
+        Me.TextBox25 = New System.Windows.Forms.TextBox()
+        Me.Label44 = New System.Windows.Forms.Label()
+        Me.Label45 = New System.Windows.Forms.Label()
+        Me.TextBox26 = New System.Windows.Forms.TextBox()
+        Me.Label46 = New System.Windows.Forms.Label()
+        Me.Label47 = New System.Windows.Forms.Label()
+        Me.Label48 = New System.Windows.Forms.Label()
+        Me.Label49 = New System.Windows.Forms.Label()
+        Me.Label50 = New System.Windows.Forms.Label()
+        Me.Label51 = New System.Windows.Forms.Label()
+        Me.Label52 = New System.Windows.Forms.Label()
+        Me.ComboBox12 = New System.Windows.Forms.ComboBox()
+        Me.TextBox32 = New System.Windows.Forms.TextBox()
+        Me.Label53 = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.tpCT1C1.SuspendLayout()
         Me.tpCT1C2.SuspendLayout()
@@ -295,6 +295,166 @@ Partial Class CTcore
         Me.tbCT1C1Rat4.TabIndex = 62
         Me.ToolTip1.SetToolTip(Me.tbCT1C1Rat4, "Secondary")
         '
+        'TextBox11
+        '
+        Me.TextBox11.Location = New System.Drawing.Point(298, 117)
+        Me.TextBox11.Name = "TextBox11"
+        Me.TextBox11.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox11.TabIndex = 107
+        Me.ToolTip1.SetToolTip(Me.TextBox11, "Secondary")
+        '
+        'TextBox12
+        '
+        Me.TextBox12.Location = New System.Drawing.Point(110, 116)
+        Me.TextBox12.Name = "TextBox12"
+        Me.TextBox12.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox12.TabIndex = 93
+        Me.ToolTip1.SetToolTip(Me.TextBox12, "Primary")
+        '
+        'TextBox13
+        '
+        Me.TextBox13.Location = New System.Drawing.Point(234, 116)
+        Me.TextBox13.Name = "TextBox13"
+        Me.TextBox13.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox13.TabIndex = 105
+        Me.ToolTip1.SetToolTip(Me.TextBox13, "Secondary")
+        '
+        'TextBox14
+        '
+        Me.TextBox14.Location = New System.Drawing.Point(172, 116)
+        Me.TextBox14.Name = "TextBox14"
+        Me.TextBox14.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox14.TabIndex = 95
+        Me.ToolTip1.SetToolTip(Me.TextBox14, "Secondary")
+        '
+        'TextBox15
+        '
+        Me.TextBox15.Location = New System.Drawing.Point(110, 142)
+        Me.TextBox15.Name = "TextBox15"
+        Me.TextBox15.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox15.TabIndex = 103
+        Me.ToolTip1.SetToolTip(Me.TextBox15, "Primary")
+        '
+        'TextBox19
+        '
+        Me.TextBox19.Location = New System.Drawing.Point(298, 117)
+        Me.TextBox19.Name = "TextBox19"
+        Me.TextBox19.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox19.TabIndex = 107
+        Me.ToolTip1.SetToolTip(Me.TextBox19, "Secondary")
+        '
+        'TextBox20
+        '
+        Me.TextBox20.Location = New System.Drawing.Point(110, 116)
+        Me.TextBox20.Name = "TextBox20"
+        Me.TextBox20.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox20.TabIndex = 93
+        Me.ToolTip1.SetToolTip(Me.TextBox20, "Primary")
+        '
+        'TextBox21
+        '
+        Me.TextBox21.Location = New System.Drawing.Point(234, 116)
+        Me.TextBox21.Name = "TextBox21"
+        Me.TextBox21.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox21.TabIndex = 105
+        Me.ToolTip1.SetToolTip(Me.TextBox21, "Secondary")
+        '
+        'TextBox22
+        '
+        Me.TextBox22.Location = New System.Drawing.Point(172, 116)
+        Me.TextBox22.Name = "TextBox22"
+        Me.TextBox22.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox22.TabIndex = 95
+        Me.ToolTip1.SetToolTip(Me.TextBox22, "Secondary")
+        '
+        'TextBox23
+        '
+        Me.TextBox23.Location = New System.Drawing.Point(110, 142)
+        Me.TextBox23.Name = "TextBox23"
+        Me.TextBox23.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox23.TabIndex = 103
+        Me.ToolTip1.SetToolTip(Me.TextBox23, "Primary")
+        '
+        'TextBox27
+        '
+        Me.TextBox27.Location = New System.Drawing.Point(298, 117)
+        Me.TextBox27.Name = "TextBox27"
+        Me.TextBox27.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox27.TabIndex = 107
+        Me.ToolTip1.SetToolTip(Me.TextBox27, "Secondary")
+        '
+        'TextBox28
+        '
+        Me.TextBox28.Location = New System.Drawing.Point(110, 116)
+        Me.TextBox28.Name = "TextBox28"
+        Me.TextBox28.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox28.TabIndex = 93
+        Me.ToolTip1.SetToolTip(Me.TextBox28, "Primary")
+        '
+        'TextBox29
+        '
+        Me.TextBox29.Location = New System.Drawing.Point(234, 116)
+        Me.TextBox29.Name = "TextBox29"
+        Me.TextBox29.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox29.TabIndex = 105
+        Me.ToolTip1.SetToolTip(Me.TextBox29, "Secondary")
+        '
+        'TextBox30
+        '
+        Me.TextBox30.Location = New System.Drawing.Point(172, 116)
+        Me.TextBox30.Name = "TextBox30"
+        Me.TextBox30.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox30.TabIndex = 95
+        Me.ToolTip1.SetToolTip(Me.TextBox30, "Secondary")
+        '
+        'TextBox31
+        '
+        Me.TextBox31.Location = New System.Drawing.Point(110, 142)
+        Me.TextBox31.Name = "TextBox31"
+        Me.TextBox31.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox31.TabIndex = 103
+        Me.ToolTip1.SetToolTip(Me.TextBox31, "Primary")
+        '
+        'TextBox3
+        '
+        Me.TextBox3.Location = New System.Drawing.Point(298, 117)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox3.TabIndex = 107
+        Me.ToolTip1.SetToolTip(Me.TextBox3, "Secondary")
+        '
+        'TextBox4
+        '
+        Me.TextBox4.Location = New System.Drawing.Point(110, 116)
+        Me.TextBox4.Name = "TextBox4"
+        Me.TextBox4.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox4.TabIndex = 93
+        Me.ToolTip1.SetToolTip(Me.TextBox4, "Primary")
+        '
+        'TextBox5
+        '
+        Me.TextBox5.Location = New System.Drawing.Point(234, 116)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox5.TabIndex = 105
+        Me.ToolTip1.SetToolTip(Me.TextBox5, "Secondary")
+        '
+        'TextBox6
+        '
+        Me.TextBox6.Location = New System.Drawing.Point(172, 116)
+        Me.TextBox6.Name = "TextBox6"
+        Me.TextBox6.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox6.TabIndex = 95
+        Me.ToolTip1.SetToolTip(Me.TextBox6, "Secondary")
+        '
+        'TextBox7
+        '
+        Me.TextBox7.Location = New System.Drawing.Point(110, 142)
+        Me.TextBox7.Name = "TextBox7"
+        Me.TextBox7.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox7.TabIndex = 103
+        Me.ToolTip1.SetToolTip(Me.TextBox7, "Primary")
+        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -442,6 +602,153 @@ Partial Class CTcore
         Me.tpCT1C2.Text = "Core 2"
         Me.tpCT1C2.UseVisualStyleBackColor = True
         '
+        'ComboBox1
+        '
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Items.AddRange(New Object() {"Protection", "Metering"})
+        Me.ComboBox1.Location = New System.Drawing.Point(110, 36)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(100, 21)
+        Me.ComboBox1.TabIndex = 96
+        '
+        'ComboBox2
+        '
+        Me.ComboBox2.FormattingEnabled = True
+        Me.ComboBox2.Items.AddRange(New Object() {"5p", "10p", "Px"})
+        Me.ComboBox2.Location = New System.Drawing.Point(269, 36)
+        Me.ComboBox2.Name = "ComboBox2"
+        Me.ComboBox2.Size = New System.Drawing.Size(47, 21)
+        Me.ComboBox2.TabIndex = 88
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(230, 39)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(32, 13)
+        Me.Label4.TabIndex = 89
+        Me.Label4.Text = "Class"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(374, 36)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox1.TabIndex = 109
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(16, 93)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(73, 13)
+        Me.Label5.TabIndex = 90
+        Me.Label5.Text = "Rated Burden"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(336, 39)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(20, 13)
+        Me.Label6.TabIndex = 108
+        Me.Label6.Text = "FS"
+        '
+        'TextBox2
+        '
+        Me.TextBox2.Location = New System.Drawing.Point(110, 90)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(76, 20)
+        Me.TextBox2.TabIndex = 91
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(46, 120)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(41, 13)
+        Me.Label11.TabIndex = 92
+        Me.Label11.Text = "Primary"
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.Location = New System.Drawing.Point(280, 121)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(12, 13)
+        Me.Label12.TabIndex = 106
+        Me.Label12.Text = "/"
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.Location = New System.Drawing.Point(154, 120)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(12, 13)
+        Me.Label14.TabIndex = 94
+        Me.Label14.Text = "/"
+        '
+        'Label16
+        '
+        Me.Label16.AutoSize = True
+        Me.Label16.Location = New System.Drawing.Point(216, 120)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(12, 13)
+        Me.Label16.TabIndex = 104
+        Me.Label16.Text = "/"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(22, 39)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(28, 13)
+        Me.Label17.TabIndex = 97
+        Me.Label17.Text = "P/M"
+        '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.Location = New System.Drawing.Point(22, 66)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(60, 13)
+        Me.Label18.TabIndex = 98
+        Me.Label18.Text = "No of Taps"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(46, 146)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(58, 13)
+        Me.Label19.TabIndex = 102
+        Me.Label19.Text = "Secondary"
+        '
+        'ComboBox3
+        '
+        Me.ComboBox3.FormattingEnabled = True
+        Me.ComboBox3.Items.AddRange(New Object() {"0", "1", "2", "3", "4"})
+        Me.ComboBox3.Location = New System.Drawing.Point(110, 63)
+        Me.ComboBox3.Name = "ComboBox3"
+        Me.ComboBox3.Size = New System.Drawing.Size(49, 21)
+        Me.ComboBox3.TabIndex = 99
+        '
+        'TextBox8
+        '
+        Me.TextBox8.Location = New System.Drawing.Point(374, 36)
+        Me.TextBox8.Name = "TextBox8"
+        Me.TextBox8.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox8.TabIndex = 101
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(330, 39)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(26, 13)
+        Me.Label20.TabIndex = 100
+        Me.Label20.Text = "ALF"
+        '
         'tpCT1C3
         '
         Me.tpCT1C3.Controls.Add(Me.ComboBox4)
@@ -472,68 +779,6 @@ Partial Class CTcore
         Me.tpCT1C3.TabIndex = 2
         Me.tpCT1C3.Text = "Core 3"
         Me.tpCT1C3.UseVisualStyleBackColor = True
-        '
-        'tpCT1C4
-        '
-        Me.tpCT1C4.Controls.Add(Me.ComboBox7)
-        Me.tpCT1C4.Controls.Add(Me.ComboBox8)
-        Me.tpCT1C4.Controls.Add(Me.Label32)
-        Me.tpCT1C4.Controls.Add(Me.TextBox17)
-        Me.tpCT1C4.Controls.Add(Me.Label33)
-        Me.tpCT1C4.Controls.Add(Me.Label34)
-        Me.tpCT1C4.Controls.Add(Me.TextBox18)
-        Me.tpCT1C4.Controls.Add(Me.Label35)
-        Me.tpCT1C4.Controls.Add(Me.TextBox19)
-        Me.tpCT1C4.Controls.Add(Me.TextBox20)
-        Me.tpCT1C4.Controls.Add(Me.Label36)
-        Me.tpCT1C4.Controls.Add(Me.Label37)
-        Me.tpCT1C4.Controls.Add(Me.TextBox21)
-        Me.tpCT1C4.Controls.Add(Me.TextBox22)
-        Me.tpCT1C4.Controls.Add(Me.Label38)
-        Me.tpCT1C4.Controls.Add(Me.Label39)
-        Me.tpCT1C4.Controls.Add(Me.TextBox23)
-        Me.tpCT1C4.Controls.Add(Me.Label40)
-        Me.tpCT1C4.Controls.Add(Me.Label41)
-        Me.tpCT1C4.Controls.Add(Me.ComboBox9)
-        Me.tpCT1C4.Controls.Add(Me.TextBox24)
-        Me.tpCT1C4.Controls.Add(Me.Label42)
-        Me.tpCT1C4.Location = New System.Drawing.Point(4, 22)
-        Me.tpCT1C4.Name = "tpCT1C4"
-        Me.tpCT1C4.Size = New System.Drawing.Size(428, 199)
-        Me.tpCT1C4.TabIndex = 3
-        Me.tpCT1C4.Text = "Core 4"
-        Me.tpCT1C4.UseVisualStyleBackColor = True
-        '
-        'tpCT1C5
-        '
-        Me.tpCT1C5.Controls.Add(Me.ComboBox10)
-        Me.tpCT1C5.Controls.Add(Me.ComboBox11)
-        Me.tpCT1C5.Controls.Add(Me.Label43)
-        Me.tpCT1C5.Controls.Add(Me.TextBox25)
-        Me.tpCT1C5.Controls.Add(Me.Label44)
-        Me.tpCT1C5.Controls.Add(Me.Label45)
-        Me.tpCT1C5.Controls.Add(Me.TextBox26)
-        Me.tpCT1C5.Controls.Add(Me.Label46)
-        Me.tpCT1C5.Controls.Add(Me.TextBox27)
-        Me.tpCT1C5.Controls.Add(Me.TextBox28)
-        Me.tpCT1C5.Controls.Add(Me.Label47)
-        Me.tpCT1C5.Controls.Add(Me.Label48)
-        Me.tpCT1C5.Controls.Add(Me.TextBox29)
-        Me.tpCT1C5.Controls.Add(Me.TextBox30)
-        Me.tpCT1C5.Controls.Add(Me.Label49)
-        Me.tpCT1C5.Controls.Add(Me.Label50)
-        Me.tpCT1C5.Controls.Add(Me.TextBox31)
-        Me.tpCT1C5.Controls.Add(Me.Label51)
-        Me.tpCT1C5.Controls.Add(Me.Label52)
-        Me.tpCT1C5.Controls.Add(Me.ComboBox12)
-        Me.tpCT1C5.Controls.Add(Me.TextBox32)
-        Me.tpCT1C5.Controls.Add(Me.Label53)
-        Me.tpCT1C5.Location = New System.Drawing.Point(4, 22)
-        Me.tpCT1C5.Name = "tpCT1C5"
-        Me.tpCT1C5.Size = New System.Drawing.Size(428, 199)
-        Me.tpCT1C5.TabIndex = 4
-        Me.tpCT1C5.Text = "Core 5"
-        Me.tpCT1C5.UseVisualStyleBackColor = True
         '
         'ComboBox4
         '
@@ -603,22 +848,6 @@ Partial Class CTcore
         Me.Label24.TabIndex = 92
         Me.Label24.Text = "Primary"
         '
-        'TextBox11
-        '
-        Me.TextBox11.Location = New System.Drawing.Point(298, 117)
-        Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox11.TabIndex = 107
-        Me.ToolTip1.SetToolTip(Me.TextBox11, "Secondary")
-        '
-        'TextBox12
-        '
-        Me.TextBox12.Location = New System.Drawing.Point(110, 116)
-        Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox12.TabIndex = 93
-        Me.ToolTip1.SetToolTip(Me.TextBox12, "Primary")
-        '
         'Label25
         '
         Me.Label25.AutoSize = True
@@ -637,22 +866,6 @@ Partial Class CTcore
         Me.Label26.TabIndex = 94
         Me.Label26.Text = "/"
         '
-        'TextBox13
-        '
-        Me.TextBox13.Location = New System.Drawing.Point(234, 116)
-        Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox13.TabIndex = 105
-        Me.ToolTip1.SetToolTip(Me.TextBox13, "Secondary")
-        '
-        'TextBox14
-        '
-        Me.TextBox14.Location = New System.Drawing.Point(172, 116)
-        Me.TextBox14.Name = "TextBox14"
-        Me.TextBox14.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox14.TabIndex = 95
-        Me.ToolTip1.SetToolTip(Me.TextBox14, "Secondary")
-        '
         'Label27
         '
         Me.Label27.AutoSize = True
@@ -670,14 +883,6 @@ Partial Class CTcore
         Me.Label28.Size = New System.Drawing.Size(28, 13)
         Me.Label28.TabIndex = 97
         Me.Label28.Text = "P/M"
-        '
-        'TextBox15
-        '
-        Me.TextBox15.Location = New System.Drawing.Point(110, 142)
-        Me.TextBox15.Name = "TextBox15"
-        Me.TextBox15.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox15.TabIndex = 103
-        Me.ToolTip1.SetToolTip(Me.TextBox15, "Primary")
         '
         'Label29
         '
@@ -721,6 +926,37 @@ Partial Class CTcore
         Me.Label31.Size = New System.Drawing.Size(26, 13)
         Me.Label31.TabIndex = 100
         Me.Label31.Text = "ALF"
+        '
+        'tpCT1C4
+        '
+        Me.tpCT1C4.Controls.Add(Me.ComboBox7)
+        Me.tpCT1C4.Controls.Add(Me.ComboBox8)
+        Me.tpCT1C4.Controls.Add(Me.Label32)
+        Me.tpCT1C4.Controls.Add(Me.TextBox17)
+        Me.tpCT1C4.Controls.Add(Me.Label33)
+        Me.tpCT1C4.Controls.Add(Me.Label34)
+        Me.tpCT1C4.Controls.Add(Me.TextBox18)
+        Me.tpCT1C4.Controls.Add(Me.Label35)
+        Me.tpCT1C4.Controls.Add(Me.TextBox19)
+        Me.tpCT1C4.Controls.Add(Me.TextBox20)
+        Me.tpCT1C4.Controls.Add(Me.Label36)
+        Me.tpCT1C4.Controls.Add(Me.Label37)
+        Me.tpCT1C4.Controls.Add(Me.TextBox21)
+        Me.tpCT1C4.Controls.Add(Me.TextBox22)
+        Me.tpCT1C4.Controls.Add(Me.Label38)
+        Me.tpCT1C4.Controls.Add(Me.Label39)
+        Me.tpCT1C4.Controls.Add(Me.TextBox23)
+        Me.tpCT1C4.Controls.Add(Me.Label40)
+        Me.tpCT1C4.Controls.Add(Me.Label41)
+        Me.tpCT1C4.Controls.Add(Me.ComboBox9)
+        Me.tpCT1C4.Controls.Add(Me.TextBox24)
+        Me.tpCT1C4.Controls.Add(Me.Label42)
+        Me.tpCT1C4.Location = New System.Drawing.Point(4, 22)
+        Me.tpCT1C4.Name = "tpCT1C4"
+        Me.tpCT1C4.Size = New System.Drawing.Size(428, 199)
+        Me.tpCT1C4.TabIndex = 3
+        Me.tpCT1C4.Text = "Core 4"
+        Me.tpCT1C4.UseVisualStyleBackColor = True
         '
         'ComboBox7
         '
@@ -790,22 +1026,6 @@ Partial Class CTcore
         Me.Label35.TabIndex = 92
         Me.Label35.Text = "Primary"
         '
-        'TextBox19
-        '
-        Me.TextBox19.Location = New System.Drawing.Point(298, 117)
-        Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox19.TabIndex = 107
-        Me.ToolTip1.SetToolTip(Me.TextBox19, "Secondary")
-        '
-        'TextBox20
-        '
-        Me.TextBox20.Location = New System.Drawing.Point(110, 116)
-        Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox20.TabIndex = 93
-        Me.ToolTip1.SetToolTip(Me.TextBox20, "Primary")
-        '
         'Label36
         '
         Me.Label36.AutoSize = True
@@ -824,22 +1044,6 @@ Partial Class CTcore
         Me.Label37.TabIndex = 94
         Me.Label37.Text = "/"
         '
-        'TextBox21
-        '
-        Me.TextBox21.Location = New System.Drawing.Point(234, 116)
-        Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox21.TabIndex = 105
-        Me.ToolTip1.SetToolTip(Me.TextBox21, "Secondary")
-        '
-        'TextBox22
-        '
-        Me.TextBox22.Location = New System.Drawing.Point(172, 116)
-        Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox22.TabIndex = 95
-        Me.ToolTip1.SetToolTip(Me.TextBox22, "Secondary")
-        '
         'Label38
         '
         Me.Label38.AutoSize = True
@@ -857,14 +1061,6 @@ Partial Class CTcore
         Me.Label39.Size = New System.Drawing.Size(28, 13)
         Me.Label39.TabIndex = 97
         Me.Label39.Text = "P/M"
-        '
-        'TextBox23
-        '
-        Me.TextBox23.Location = New System.Drawing.Point(110, 142)
-        Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox23.TabIndex = 103
-        Me.ToolTip1.SetToolTip(Me.TextBox23, "Primary")
         '
         'Label40
         '
@@ -908,6 +1104,37 @@ Partial Class CTcore
         Me.Label42.Size = New System.Drawing.Size(26, 13)
         Me.Label42.TabIndex = 100
         Me.Label42.Text = "ALF"
+        '
+        'tpCT1C5
+        '
+        Me.tpCT1C5.Controls.Add(Me.ComboBox10)
+        Me.tpCT1C5.Controls.Add(Me.ComboBox11)
+        Me.tpCT1C5.Controls.Add(Me.Label43)
+        Me.tpCT1C5.Controls.Add(Me.TextBox25)
+        Me.tpCT1C5.Controls.Add(Me.Label44)
+        Me.tpCT1C5.Controls.Add(Me.Label45)
+        Me.tpCT1C5.Controls.Add(Me.TextBox26)
+        Me.tpCT1C5.Controls.Add(Me.Label46)
+        Me.tpCT1C5.Controls.Add(Me.TextBox27)
+        Me.tpCT1C5.Controls.Add(Me.TextBox28)
+        Me.tpCT1C5.Controls.Add(Me.Label47)
+        Me.tpCT1C5.Controls.Add(Me.Label48)
+        Me.tpCT1C5.Controls.Add(Me.TextBox29)
+        Me.tpCT1C5.Controls.Add(Me.TextBox30)
+        Me.tpCT1C5.Controls.Add(Me.Label49)
+        Me.tpCT1C5.Controls.Add(Me.Label50)
+        Me.tpCT1C5.Controls.Add(Me.TextBox31)
+        Me.tpCT1C5.Controls.Add(Me.Label51)
+        Me.tpCT1C5.Controls.Add(Me.Label52)
+        Me.tpCT1C5.Controls.Add(Me.ComboBox12)
+        Me.tpCT1C5.Controls.Add(Me.TextBox32)
+        Me.tpCT1C5.Controls.Add(Me.Label53)
+        Me.tpCT1C5.Location = New System.Drawing.Point(4, 22)
+        Me.tpCT1C5.Name = "tpCT1C5"
+        Me.tpCT1C5.Size = New System.Drawing.Size(428, 199)
+        Me.tpCT1C5.TabIndex = 4
+        Me.tpCT1C5.Text = "Core 5"
+        Me.tpCT1C5.UseVisualStyleBackColor = True
         '
         'ComboBox10
         '
@@ -977,22 +1204,6 @@ Partial Class CTcore
         Me.Label46.TabIndex = 92
         Me.Label46.Text = "Primary"
         '
-        'TextBox27
-        '
-        Me.TextBox27.Location = New System.Drawing.Point(298, 117)
-        Me.TextBox27.Name = "TextBox27"
-        Me.TextBox27.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox27.TabIndex = 107
-        Me.ToolTip1.SetToolTip(Me.TextBox27, "Secondary")
-        '
-        'TextBox28
-        '
-        Me.TextBox28.Location = New System.Drawing.Point(110, 116)
-        Me.TextBox28.Name = "TextBox28"
-        Me.TextBox28.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox28.TabIndex = 93
-        Me.ToolTip1.SetToolTip(Me.TextBox28, "Primary")
-        '
         'Label47
         '
         Me.Label47.AutoSize = True
@@ -1011,22 +1222,6 @@ Partial Class CTcore
         Me.Label48.TabIndex = 94
         Me.Label48.Text = "/"
         '
-        'TextBox29
-        '
-        Me.TextBox29.Location = New System.Drawing.Point(234, 116)
-        Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox29.TabIndex = 105
-        Me.ToolTip1.SetToolTip(Me.TextBox29, "Secondary")
-        '
-        'TextBox30
-        '
-        Me.TextBox30.Location = New System.Drawing.Point(172, 116)
-        Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox30.TabIndex = 95
-        Me.ToolTip1.SetToolTip(Me.TextBox30, "Secondary")
-        '
         'Label49
         '
         Me.Label49.AutoSize = True
@@ -1044,14 +1239,6 @@ Partial Class CTcore
         Me.Label50.Size = New System.Drawing.Size(28, 13)
         Me.Label50.TabIndex = 97
         Me.Label50.Text = "P/M"
-        '
-        'TextBox31
-        '
-        Me.TextBox31.Location = New System.Drawing.Point(110, 142)
-        Me.TextBox31.Name = "TextBox31"
-        Me.TextBox31.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox31.TabIndex = 103
-        Me.ToolTip1.SetToolTip(Me.TextBox31, "Primary")
         '
         'Label51
         '
@@ -1095,193 +1282,6 @@ Partial Class CTcore
         Me.Label53.Size = New System.Drawing.Size(26, 13)
         Me.Label53.TabIndex = 100
         Me.Label53.Text = "ALF"
-        '
-        'ComboBox1
-        '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Protection", "Metering"})
-        Me.ComboBox1.Location = New System.Drawing.Point(110, 36)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(100, 21)
-        Me.ComboBox1.TabIndex = 96
-        '
-        'ComboBox2
-        '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"5p", "10p", "Px"})
-        Me.ComboBox2.Location = New System.Drawing.Point(269, 36)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(47, 21)
-        Me.ComboBox2.TabIndex = 88
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(230, 39)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(32, 13)
-        Me.Label4.TabIndex = 89
-        Me.Label4.Text = "Class"
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Location = New System.Drawing.Point(374, 36)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox1.TabIndex = 109
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(16, 93)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(73, 13)
-        Me.Label5.TabIndex = 90
-        Me.Label5.Text = "Rated Burden"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(336, 39)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(20, 13)
-        Me.Label6.TabIndex = 108
-        Me.Label6.Text = "FS"
-        '
-        'TextBox2
-        '
-        Me.TextBox2.Location = New System.Drawing.Point(110, 90)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(76, 20)
-        Me.TextBox2.TabIndex = 91
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(46, 120)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(41, 13)
-        Me.Label11.TabIndex = 92
-        Me.Label11.Text = "Primary"
-        '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(298, 117)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox3.TabIndex = 107
-        Me.ToolTip1.SetToolTip(Me.TextBox3, "Secondary")
-        '
-        'TextBox4
-        '
-        Me.TextBox4.Location = New System.Drawing.Point(110, 116)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox4.TabIndex = 93
-        Me.ToolTip1.SetToolTip(Me.TextBox4, "Primary")
-        '
-        'Label12
-        '
-        Me.Label12.AutoSize = True
-        Me.Label12.Location = New System.Drawing.Point(280, 121)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(12, 13)
-        Me.Label12.TabIndex = 106
-        Me.Label12.Text = "/"
-        '
-        'Label14
-        '
-        Me.Label14.AutoSize = True
-        Me.Label14.Location = New System.Drawing.Point(154, 120)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(12, 13)
-        Me.Label14.TabIndex = 94
-        Me.Label14.Text = "/"
-        '
-        'TextBox5
-        '
-        Me.TextBox5.Location = New System.Drawing.Point(234, 116)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox5.TabIndex = 105
-        Me.ToolTip1.SetToolTip(Me.TextBox5, "Secondary")
-        '
-        'TextBox6
-        '
-        Me.TextBox6.Location = New System.Drawing.Point(172, 116)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox6.TabIndex = 95
-        Me.ToolTip1.SetToolTip(Me.TextBox6, "Secondary")
-        '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.Location = New System.Drawing.Point(216, 120)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(12, 13)
-        Me.Label16.TabIndex = 104
-        Me.Label16.Text = "/"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(22, 39)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(28, 13)
-        Me.Label17.TabIndex = 97
-        Me.Label17.Text = "P/M"
-        '
-        'TextBox7
-        '
-        Me.TextBox7.Location = New System.Drawing.Point(110, 142)
-        Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox7.TabIndex = 103
-        Me.ToolTip1.SetToolTip(Me.TextBox7, "Primary")
-        '
-        'Label18
-        '
-        Me.Label18.AutoSize = True
-        Me.Label18.Location = New System.Drawing.Point(22, 66)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(60, 13)
-        Me.Label18.TabIndex = 98
-        Me.Label18.Text = "No of Taps"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(46, 146)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(58, 13)
-        Me.Label19.TabIndex = 102
-        Me.Label19.Text = "Secondary"
-        '
-        'ComboBox3
-        '
-        Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"0", "1", "2", "3", "4"})
-        Me.ComboBox3.Location = New System.Drawing.Point(110, 63)
-        Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(49, 21)
-        Me.ComboBox3.TabIndex = 99
-        '
-        'TextBox8
-        '
-        Me.TextBox8.Location = New System.Drawing.Point(374, 36)
-        Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.Size = New System.Drawing.Size(38, 20)
-        Me.TextBox8.TabIndex = 101
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(330, 39)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(26, 13)
-        Me.Label20.TabIndex = 100
-        Me.Label20.Text = "ALF"
         '
         'CTcore
         '
